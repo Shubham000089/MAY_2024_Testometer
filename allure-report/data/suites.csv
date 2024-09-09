@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5692","test_hrm_010_verify_my_info_ui","","Sat Sep 07 23:03:53 IST 2024","passed","Sat Sep 07 23:03:59 IST 2024","TestMyInfoSection","test_PIM_phase2","",""
+"","10472","test_hrm_012_verify_functionality_of_save_button","","Sat Sep 07 23:04:03 IST 2024","broken","Sat Sep 07 23:04:13 IST 2024","TestMyInfoSection","test_PIM_phase2","",""
+"","4202","test_hrm_011_verify_form_can_accept_data","","Sat Sep 07 23:03:59 IST 2024","passed","Sat Sep 07 23:04:03 IST 2024","TestMyInfoSection","test_PIM_phase2","",""
+"","1710","test_hrm_013_verify_logout","","Sat Sep 07 23:04:14 IST 2024","passed","Sat Sep 07 23:04:15 IST 2024","TestMyInfoSection","test_PIM_phase2","",""

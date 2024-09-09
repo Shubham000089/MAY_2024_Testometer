@@ -52,3 +52,6 @@ class TestMyInfoSection:
     def test_hrm_013_verify_logout(self):
     #     RP = ResourcePIM(self.driver, self.wait, self.actions)
         self.RP.logout()
+
+
+    # Testing the changes

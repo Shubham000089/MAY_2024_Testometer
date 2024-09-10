@@ -26,3 +26,5 @@ def test_duckduckgo():
     driver.get("https://www.duckduckgo.com")
     assert "DuckDuckGo" in driver.title
     driver.quit()
+
+# New code for git
